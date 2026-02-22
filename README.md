@@ -122,7 +122,7 @@ We reserve the right to take legal action against individuals or entities violat
 
 <ul>
   <li><strong>Email:</strong> dhayaldhruvwork271@gmail.com</li>
-  <li><strong>Linkdin:</strong> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank">www.dhayaldhruv.com</a></li>
+  <li><strong>Linkdin:</strong> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank">www.dhayaldhruvloveforever271.com</a></li>
 </ul>
 
 <hr>
