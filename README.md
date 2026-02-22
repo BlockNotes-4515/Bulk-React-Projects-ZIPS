@@ -2,7 +2,15 @@
 <div align="center">
 
 <h1>
-  ⚛️ REACT
+ <div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" />
+
+<h1>My React App</h1>
+
+<p><strong>Built with React + Vite</strong></p>
+
+</div>
 </h1>
 
 <p>
