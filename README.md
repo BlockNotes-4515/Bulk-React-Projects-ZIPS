@@ -1,5 +1,24 @@
 # Bulk-React-Projects-ZIPS
+<div align="center">
 
+<h1>
+  ⚛️ REACT
+</h1>
+
+<p>
+  <strong>Modern Frontend Development Framework</strong>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-Fast%20Build-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+
+</div>
+
+<hr>
 <div align="center">
   <h1>🚀 Ultimate React Masterclass</h1>
   <h3>The Ultimate Java & Spring Boot Mastery Roadmap</h3>
