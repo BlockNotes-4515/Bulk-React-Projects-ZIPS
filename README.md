@@ -77,8 +77,8 @@ Our community and expert instructors are here to support you every step of the w
 
 <h3>👨‍🏫 Instructor Information</h3>
 <ul>
-  <li><strong>Instructor:</strong> Faisal Memon</li>
-  <li><strong>Company:</strong> EmbarkX.com</li>
+  <li><strong>Instructor:</strong> Dhruv Dhayal</li>
+  <li><strong>Company:</strong> SmileGroupOfCompanies :)</li>
 </ul>
 
 <h3>Policy Overview</h3>
@@ -109,7 +109,7 @@ Faisal Memon and EmbarkX. Unauthorized use, reproduction, or distribution is str
 If you become aware of any unauthorized sharing or distribution of course materials,
 please report it immediately at:
 </p>
-<p><strong>Email:</strong> embarkxofficial@gmail.com</p>
+<p><strong>Email:</strong> dhayaldhruvwork271@gmail.com</p>
 
 <h3>5️⃣ Legal Action</h3>
 <p>
@@ -121,8 +121,8 @@ We reserve the right to take legal action against individuals or entities violat
 <h2>📞 Contact Information</h2>
 
 <ul>
-  <li><strong>Email:</strong> embarkxofficial@gmail.com</li>
-  <li><strong>Website:</strong> <a href="https://www.embarkx.com" target="_blank">www.embarkx.com</a></li>
+  <li><strong>Email:</strong> dhayaldhruvwork271@gmail.com</li>
+  <li><strong>Linkdin:</strong> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank">www.embarkx.com</a></li>
 </ul>
 
 <hr>
