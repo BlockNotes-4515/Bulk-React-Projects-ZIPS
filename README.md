@@ -26,13 +26,11 @@
 
 </div>
 
-<hr>
 <div align="center">
-  <h1>🚀 Ultimate React Masterclass</h1>
+  <h1>📌 Ultimate React Masterclass</h1>
   <h3>The Ultimate Java & Spring Boot Mastery Roadmap</h3>
   <p><strong>Official Repository</strong></p>
 </div>
-
 <hr>
 
 <h2>📌 About This Repository</h2>
